@@ -1,6 +1,6 @@
 # EX---3-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
-# NAME: MOTTA KATTA MOUNIKA
-# REG NUMBER:212224040202
+### NAME: RHUDHRA PHRIYAMVADHA K S
+### REG NUMBER:212224040275
 # AIM:
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system,enabling the creation and management of virtual machines for running multiple operating systems on a single host machine
 
